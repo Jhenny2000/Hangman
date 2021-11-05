@@ -20,7 +20,7 @@ function Hangman(){
     const [nWrong , setNWrong] = useState(0);
     const [answer, setAnswer] = useState(randomWord);
     const [sucess, setSucess] = useState(0)
-    // console.log(answer)
+    // console.log(answer) erro no console resolvido
 
     
 
